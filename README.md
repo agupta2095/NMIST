@@ -1,2 +1,2 @@
 # NMIST
-Repository of neural networks build to training NMIST dataset using GANs and CNNs in Pytorch
+Repository of neural networks built to training MNIST dataset using GANs and CNNs in Pytorch
